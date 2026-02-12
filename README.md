@@ -1,11 +1,13 @@
-## Hi, I'm Badreddine 👋
+## Salut, je suis Badreddine 👋
 
-🎓 Computer science student  
-🤝 Interested in teamwork and software development  
-📚 Learning programming and software engineering  
+🎓 Étudiant en informatique
 
-### Skills
-- C programming
-- Problem solving
-- Team collaboration
-- Git & GitHub## Hi there 👋
+🤝 Intéressé par le travail d'équipe et le développement logiciel
+
+📚 Apprentissage de la programmation et du génie logiciel
+
+### Compétences
+- Programmation en C
+- Résolution de problèmes
+- Collaboration en équipe
+- Git et GitHub ## Salut 👋
